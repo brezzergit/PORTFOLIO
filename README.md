@@ -2,6 +2,9 @@
 
 This is my personal portfolio website showcasing my projects, skills, certifications, and experience in **AI/ML, Computer Vision, and Large Language Models (LLMs).**
 
+## 🔗 Live Demo
+👉 [View My Portfolio](https://crisp-career.lovable.app)
+
 ## 🚀 Tech Stack
 - Next.js
 - Tailwind CSS
@@ -16,9 +19,6 @@ This is my personal portfolio website showcasing my projects, skills, certificat
 - **Projects** – Key AI/ML projects with GitHub/demo links  
 - **Certificates** – Industry-recognized credentials  
 - **Contact** – Email, LinkedIn, GitHub  
-
-## 🔗 Live Demo
-👉 [View My Portfolio](https://crisp-career.lovable.app)
 
 ## 📌 Projects Highlighted
 - [Vision Pivot](https://github.com/brezzergit/Vision-Pivot) – AI attendance system using FaceNet + Firebase  
