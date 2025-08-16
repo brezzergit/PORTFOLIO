@@ -1,8 +1,6 @@
 # Sudharsan's Portfolio 🌐
 
 This is my personal portfolio website showcasing my projects, skills, certifications, and experience in **AI/ML, Computer Vision, and Large Language Models (LLMs).**
-
-## 🔗 Live Demo
 👉 [View My Portfolio](https://crisp-career.lovable.app)
 
 ## 🚀 Tech Stack
